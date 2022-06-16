@@ -11,19 +11,40 @@
 
   p {
     font-family: "Times New Roman", Serif;
-  font-size: 20px;
+    font-size: 20px;
   }
 
-  /* .checkbox-form {
+   .checkbox-form {
 
-    background-color: darkblue;
+    flex-wrap: wrap;
 
-  } */
+  } 
 
 .agile {
     text-align: center;
 }
 
 .about {
-    padding-top: 08rem;
+    border-radius: 2%;
+    padding-top: 10rem;
+    background-color: green;
+    padding: 10px;
+}
+
+.dropdown {
+    margin-bottom: 8rem;
+}
+
+.hood {
+    display: flex;
+    background-color: blue;
+}
+
+.hood > div {
+     background-color: #f1f1f1;
+     margin: 10px;
+     padding: 20px;
+     font-size: 30px;
+      
+
 }
