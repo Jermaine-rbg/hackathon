@@ -9,6 +9,11 @@
     
   }
 
+  p {
+    font-family: "Times New Roman", Serif;
+  font-size: 20px;
+  }
+
   /* .checkbox-form {
 
     background-color: darkblue;
